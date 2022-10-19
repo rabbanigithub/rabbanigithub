@@ -11,6 +11,7 @@
   - [Deploy Maven Apps](https://github.com/rabbanigithub/mvn-apps)
 - Docker
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-docker)
+  - [Deploy Jenkins](https://github.com/rabbanigithub/jenkins-on-docker)
 - Jenkins
   - [Deploy Nginx Web Server](https://github.com/rabbanigithub/nginx-Jenkins)
   - [Deploy Maven Apps](https://github.com/rabbanigithub/mvn-apps)
