@@ -1,7 +1,7 @@
 
 ## List of Repositories
 - Terraform
-  - [Deploy Web Server on AWS using Terraform](https://github.com/rabbanigithub/aws-web-terraform)
+  - [Deploy Web Server on AWS](https://github.com/rabbanigithub/aws-web-terraform)
 - Kubernetes
   - [Deploy Kubernetes using Vagrant](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-using-vagrant)
   - [Kubernetes Dashboard Deployment](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-dashboard)
