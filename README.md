@@ -13,6 +13,7 @@
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-docker)
 - Jenkins
   - [Deploy Nginx Web Server](https://github.com/rabbanigithub/nginx-Jenkins)
+  - [Deploy Maven Apps](https://github.com/rabbanigithub/mvn-apps)
 - Ansible
   - [Deploy Nginx Web Server](https://github.com/rabbanigithub/nginx-ansible)
 - Vagrant
