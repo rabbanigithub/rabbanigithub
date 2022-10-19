@@ -1,6 +1,5 @@
-- 👋 Hi
 
-<!---
-rabbanigithub/rabbanigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## List of Repositories
+
+* Terraform
+  * [Deploy Web Server on AWS using Terraform](https://github.com/rabbanigithub/aws-web-terraform)
