@@ -4,7 +4,7 @@
   - [Deploy Web Server on AWS](https://github.com/rabbanigithub/aws-web-terraform)
 - Kubernetes
   - [Deploy Kubernetes using Vagrant](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-using-vagrant)
-  - [Kubernetes Dashboard Deployment](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-dashboard)
+  - [Kubernetes Dashboard Deployment](https://github.com/rabbanigithub/kubernetes-dashboard)
   - [ELK Stack Deployment](https://github.com/rabbanigithub/elk-stack-kubernetes)
   - [Opensearch Deployment](https://github.com/rabbanigithub/kubernetes/tree/master/opensearch)
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-k8s)
