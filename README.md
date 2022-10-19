@@ -3,10 +3,10 @@
 - Terraform
   - [Deploy Web Server on AWS](https://github.com/rabbanigithub/aws-web-terraform)
 - Kubernetes
-  - [Deploy Kubernetes using Vagrant](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-using-vagrant)
+  - [Deploy Kubernetes using Vagrant](https://github.com/rabbanigithub/kubernetes-using-vagrant)
   - [Kubernetes Dashboard Deployment](https://github.com/rabbanigithub/kubernetes-dashboard)
   - [ELK Stack Deployment](https://github.com/rabbanigithub/elk-stack-kubernetes)
-  - [Opensearch Deployment](https://github.com/rabbanigithub/kubernetes/tree/master/opensearch)
+  - [Opensearch Deployment](https://github.com/rabbanigithub/opensearch-kubernetes)
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-k8s)
   - [Deploy Maven Apps](https://github.com/rabbanigithub/mvn-apps)
 - Docker
@@ -18,6 +18,6 @@
   - [Deploy Nginx Web Server](https://github.com/rabbanigithub/nginx-ansible)
 - Vagrant
   - [Add 2nd disk](https://github.com/rabbanigithub/vagrant-2nd-disk)
-  - [Kubernetes Deployment](https://github.com/rabbanigithub/kubernetes/tree/master/kubernetes-using-vagrant)
+  - [Kubernetes Deployment](https://github.com/rabbanigithub/kubernetes-using-vagrant)
 - MySQL
   - [Multi Node Mysql Cluster](https://github.com/rabbanigithub/multi-node-mysql-cluster)
