@@ -2,7 +2,7 @@
 ## List of Repositories
 - Terraform
   - [Deploy Web Server on AWS](https://github.com/rabbanigithub/aws-web-terraform)
-  - [Using Module on AWS](https://github.com/rabbanigithub/aws-web-terraform)
+  - [Using Module on AWS](https://github.com/rabbanigithub/aws-using-module-terraform)
 - Kubernetes
   - [Deploy Kubernetes using Vagrant](https://github.com/rabbanigithub/kubernetes-using-vagrant)
   - [Deploy Minikube](https://github.com/rabbanigithub/minikube-deploy)
