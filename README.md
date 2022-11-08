@@ -11,6 +11,7 @@
   - [Opensearch Deployment](https://github.com/rabbanigithub/opensearch-kubernetes)
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-k8s)
   - [Deploy Maven Apps](https://github.com/rabbanigithub/mvn-apps)
+  - [2 Tier Application](https://github.com/rabbanigithub/2-tier-app-on-kubernetes)
 - Docker
   - [Multi Container Deployment](https://github.com/rabbanigithub/multi-docker)
   - [Deploy Jenkins](https://github.com/rabbanigithub/jenkins-on-docker)
